@@ -13,3 +13,7 @@ El repositorio contiene:
 
 - [Código Arduino](https://github.com/pepeesp8266/EstacionMeteorologica/blob/master/EstacionMeteorologica.ino)
 
+- [Video del protecto](https://www.youtube.com/watch?v=KQAulrZM5ks)
+
+- [Página web del proyecto](https://sites.google.com/iesvaleix.com/estacion-meteorologica-v-aleix/)
+
