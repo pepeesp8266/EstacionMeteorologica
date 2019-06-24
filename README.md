@@ -6,6 +6,8 @@ Realización de una estación meteorológica para el instituto que mida magnitud
 
 Para realizar el proyecto, hemos hecho la siguiente división de subsistemas:
 
+<img src="división de subsistemas.png" width="600" align="center">
+
 
 [Video del protecto](https://www.youtube.com/watch?v=KQAulrZM5ks)
 
