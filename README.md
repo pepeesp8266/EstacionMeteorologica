@@ -25,6 +25,6 @@ El repositorio contiene:
 
 
 ## Más información
-[Video del protecto](https://www.youtube.com/watch?v=KQAulrZM5ks)
+- [Video del protecto](https://www.youtube.com/watch?v=KQAulrZM5ks)
 
-[Página web del proyecto](https://sites.google.com/iesvaleix.com/estacion-meteorologica-v-aleix/)
+- [Página web del proyecto](https://sites.google.com/iesvaleix.com/estacion-meteorologica-v-aleix/)
